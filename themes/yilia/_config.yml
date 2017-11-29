@@ -2,6 +2,7 @@
 
 menu:
   主页: /
+  笔记: /categories/笔记/
 
 # SubNav
 subnav:
@@ -115,11 +116,11 @@ slider:
 #  friends: false
 smart_menu:
   innerArchive: '所有文章'
-  friends: '友链'
+  friends: false
   aboutme: '关于我'
 
 friends:
   友情链接1:
 
 
-aboutme: 很惭愧<br><br>只做了一点微小的工作<br>谢谢大家
+aboutme: Just do it<br><br>271495523@qq.com
